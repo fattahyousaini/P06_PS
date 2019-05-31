@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="buttonClear">Clear</string>
+    <string name="buttonAdd">Add</string>
+</resources>
